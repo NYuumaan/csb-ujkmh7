@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://nyuumaan.github.io/csb-ujkmh7/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://nyuumaan.github.io/csb-ujkmh7/static/js/main.1fcbf96f.chunk.js",
-    "main.js.map": "https://nyuumaan.github.io/csb-ujkmh7/static/js/main.1fcbf96f.chunk.js.map",
+    "main.js": "https://nyuumaan.github.io/csb-ujkmh7/static/js/main.95f2757f.chunk.js",
+    "main.js.map": "https://nyuumaan.github.io/csb-ujkmh7/static/js/main.95f2757f.chunk.js.map",
     "runtime-main.js": "https://nyuumaan.github.io/csb-ujkmh7/static/js/runtime-main.62ee5bcb.js",
     "runtime-main.js.map": "https://nyuumaan.github.io/csb-ujkmh7/static/js/runtime-main.62ee5bcb.js.map",
-    "static/js/2.eab9b34a.chunk.js": "https://nyuumaan.github.io/csb-ujkmh7/static/js/2.eab9b34a.chunk.js",
-    "static/js/2.eab9b34a.chunk.js.map": "https://nyuumaan.github.io/csb-ujkmh7/static/js/2.eab9b34a.chunk.js.map",
+    "static/js/2.7ed6f144.chunk.js": "https://nyuumaan.github.io/csb-ujkmh7/static/js/2.7ed6f144.chunk.js",
+    "static/js/2.7ed6f144.chunk.js.map": "https://nyuumaan.github.io/csb-ujkmh7/static/js/2.7ed6f144.chunk.js.map",
     "index.html": "https://nyuumaan.github.io/csb-ujkmh7/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "https://nyuumaan.github.io/csb-ujkmh7/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.eab9b34a.chunk.js.LICENSE.txt": "https://nyuumaan.github.io/csb-ujkmh7/static/js/2.eab9b34a.chunk.js.LICENSE.txt"
+    "static/js/2.7ed6f144.chunk.js.LICENSE.txt": "https://nyuumaan.github.io/csb-ujkmh7/static/js/2.7ed6f144.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.62ee5bcb.js",
-    "static/js/2.eab9b34a.chunk.js",
+    "static/js/2.7ed6f144.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.1fcbf96f.chunk.js"
+    "static/js/main.95f2757f.chunk.js"
   ]
 }
